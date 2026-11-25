@@ -9,6 +9,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* INICIO HEADER */
 .nav {
     background-color: #181818;
@@ -187,3 +191,4 @@ footer a {
 footer p {
     margin-left: 12px;
 }
+/* FIM FOOTER */
